@@ -1,6 +1,6 @@
 # 🐢 Turtle Crossing Capstone Project 🚦
 
-![Turtle Crossing](screenshot.png)
+![Turtle Crossing](turtle.png)
 
 The Turtle Crossing Capstone project is a fun arcade-style game developed using Python's turtle graphics library. The project serves as a great learning opportunity for both `turtle` graphics and Object-Oriented Programming (OOP) concepts.
 
